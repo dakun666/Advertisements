@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/default_background_color</color>
+    <color name="colorPrimaryDark">@color/default_background_color</color>
+    <color name="colorAccent">@color/default_background_color</color>
+
+    <color name="default_background_color">#002134</color>
+
+    <color name="default_gradient_color_0">#43CBFF</color>
+    <color name="default_gradient_color_1">#9708CC</color>
+</resources>

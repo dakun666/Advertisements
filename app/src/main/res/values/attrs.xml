@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="DotArrayView">
+
+        <attr name="lines" format="integer" />
+        <attr name="columns" format="integer" />
+        <attr name="dotColor" format="color|reference" />
+        <attr name="dotDiam" format="dimension" />
+        <attr name="dotSpace" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="VerifyCodeEdit">
+
+        <attr name="codeLength" format="integer" />
+        <attr name="editBackground" format="reference" />
+        <attr name="editWidth" format="dimension" />
+        <attr name="editHeight" format="dimension" />
+        <attr name="editMargin" format="dimension" />
+    </declare-styleable>
+</resources>

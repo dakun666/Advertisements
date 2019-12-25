@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">广告制作</string>
+    <string name="app_en_name">video advertisements</string>
+
+    <string name="login">登录</string>
+    <string name="main_page">主页</string>
+    <string name="user_center">个人中心</string>
+    <string name="business_type_login">商家登录</string>
+    <string name="user_type_login">用户登录</string>
+    <string name="login_disclaimer_hint">登录即表明你已同意广告制作的&#160;&#160;&#160;使用条款&#160;&#160;&#160;和&#160;&#160;&#160;隐私协定。</string>
+    <string name="terms_of_use">使用条款</string>
+    <string name="privacy_policy">隐私协定</string>
+    <string name="other_type_login">第三方登录</string>
+    <string name="tik_tok_type_login">抖音</string>
+    <string name="cancel">取消</string>
+    <string name="verify_phone_number">验证手机号</string>
+    <string name="phone_number_null_hint">手机号不能为空</string>
+    <string name="phone_number_wrong_hint">请输入正确格式的手机号</string>
+    <string name="verify">验证</string>
+    <string name="edit_verify_code">填写验证码</string>
+    <string name="retry_send_verify_code">重新发送</string>
+    <string name="verify_code_hint">已发送短信验证码到%s</string>
+
+    <string name="fast_production_video">快速制作</string>
+    <string name="import_video">导入剪辑</string>
+    <string name="take_video">拍摄</string>
+    <string name="analytic_video">解析视频</string>
+    <string name="video_model">视频模版</string>
+    <string name="video_share_list_title">视频分享</string>
+    <string name="video_share_item_commission">分享赚%s元</string>
+    <string name="video_share_item_share_surplus_times">还剩余%s次可分享</string>
+    <string name="video_share_explain_dialog_title">视频任务详情</string>
+    <string name="video_share_explain_dialog_content">1.观看视频然后分享视频到指定的平台发布可得%s元零钱\n2.然后复制发布在其它视频平台的链接\n3.打开xx，回到个人中心，将复制的链接粘贴在对应的视频回执框里即可完成任务\n4.完成任务后零钱将在24小时内发放到您的钱包，如果24小时内您删除了在其它平台发布的视频，我们将不予给您发放零钱</string>
+    <string name="copy">复制</string>
+    <string name="paste">粘贴</string>
+    <string name="hours_24">24小时</string>
+
+    <string name="production_video">制作视频</string>
+    <string name="my_video">我的视频</string>
+    <string name="my_purse">我的钱包</string>
+    <string name="settings">设置</string>
+</resources>
